@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Javier Gonzalez
-- 👀 I’m interested in learning to cdoe
+- 👀 I’m interested in learning to code
 - 🌱 I’m currently learning python
 - ⚡ Fun fact: Teaching myself solo 
 
